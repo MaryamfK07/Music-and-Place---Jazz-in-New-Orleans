@@ -16,6 +16,17 @@ Built with **ArcGIS StoryMaps**, it provides **interactive maps, audio clips, im
 
 ---
 
+## Methods
+
+Using a GIS Platform
+Historical and Archival Research (A history of slavery, cultural influences, key locations.
+Geographical Mapping (GIS) (site indentification)
+Multimedia Integration (visual documentation: using images of Congo Square, early Jazz musicants, like Louis Amstrong, and brass bands, 
+video/audio: embedding a video related to the Congo Square Drum Circle to demonstate the sound that survived the period.
+Textual Narrative: Providing detailed historical context and analysis alongside the visuals.
+
+---
+
 ## 🚀 Features
 
 - ✅ Map of key historical sites in the development of jazz  
