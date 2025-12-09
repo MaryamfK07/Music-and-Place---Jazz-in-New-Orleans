@@ -10,8 +10,7 @@ Hi, this is our github
 
 This project uses GIS mapping and multimedia storytelling to illustrate **how jazz emerged, spread, and transformed New Orleans**.  
 Through locations such as **Congo Square**, **Storyville**, and historic jazz neighborhoods, the project highlights how cultural mixing, migration, and community spaces shaped the sound of American music.
-
-Example:  
+  
 This is a **historical + GIS StoryMap project** designed to **show the geographic and cultural roots of jazz and how the music moved through the city over time**.  
 Built with **ArcGIS StoryMaps**, it provides **interactive maps, audio clips, imagery, and narrative content** to explain jazz’s evolution.
 
