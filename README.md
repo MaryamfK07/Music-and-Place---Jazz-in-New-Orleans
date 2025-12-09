@@ -50,4 +50,5 @@ The diasporic spread of Jazz indicates the impact the genre has had on several c
 ## StoryMap Link
 
 Our StoryMap: https://storymaps.arcgis.com/stories/5bdb03f030ed4ba3a5e8f95af6e7a969
+
 Our Project Scope: https://docs.google.com/document/d/1U_GPfBqU_KCa_SMpCz5LCv-3zBzE2zic1k4twO2Jk6I/edit?tab=t.0
